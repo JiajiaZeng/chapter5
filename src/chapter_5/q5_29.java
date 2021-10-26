@@ -39,7 +39,7 @@ public class q5_29 {
         		else {
         			day=28;
         		}
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  February "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
@@ -56,7 +56,7 @@ public class q5_29 {
         	}
         	else if(month==3){
         		day=31;
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  March "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
@@ -73,7 +73,7 @@ public class q5_29 {
         	}
         	else if(month==4){
         		day=30;
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  April "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
@@ -90,7 +90,7 @@ public class q5_29 {
         	}
         	else if(month==5){
         		day=31;
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  May "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
@@ -107,7 +107,7 @@ public class q5_29 {
         	}
         	else if(month==6){
         		day=30;
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  June "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
@@ -124,7 +124,7 @@ public class q5_29 {
         	}
         	else if(month==7){
         		day=31;
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  July "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
@@ -141,7 +141,7 @@ public class q5_29 {
         	}
         	else if(month==8){
         		day=31;
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  August "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
@@ -158,7 +158,7 @@ public class q5_29 {
         	}
         	else if(month==9){
         		day=30;
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  September "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
@@ -175,7 +175,7 @@ public class q5_29 {
         	}
         	else if(month==10){
         		day=31;
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  October "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
@@ -192,7 +192,7 @@ public class q5_29 {
         	}
         	else if(month==11){
         		day=30;
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  November "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
@@ -209,7 +209,7 @@ public class q5_29 {
         	}
         	else {
         		day=31;
-        		System.out.println("\t\t  January "+year+"\t\t\n"+"-----------------------------------------------------");
+        		System.out.println("\t\t  December "+year+"\t\t\n"+"-----------------------------------------------------");
         		System.out.println("    Sun    Mon    Tue    Wed    Thu    Fri    Sat    ");
         		for(i=0;i<week;i++) {
         			System.out.print("       ");
